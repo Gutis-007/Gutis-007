@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-517b51212/)
 <div>
-    <img height="180em" widght="200em" src="https://github-readme-stats.vercel.app/api?username=Gutis-007&show_icons=true&theme=dracula&hide_rank=true" />
-    <img height="180em" widght="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutis-007&langs_count=16&layout=compact&theme=dracula" />
+    <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api?username=Gutis-007&show_icons=true&theme=dracula&hide_rank=true" />
+    <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutis-007&langs_count=16&layout=compact&theme=dracula" />
 </div>
 
 
