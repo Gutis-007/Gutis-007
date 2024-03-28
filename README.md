@@ -13,5 +13,5 @@
 
  Sou alguem apaixonado por desenvolvimento e tudo que envolve tecnologia, sempre em busca de novos conhecimentos
 
-![snake gif](https://github.com/Gutis-007/Gutis-007/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Gutis-007/Gutis-007/blob/output/github-contribution-grid-snake-dark.svg)
 
