@@ -1,5 +1,7 @@
 ### Hello World! Eu sou Gustavo Ferreira 🖐
 - 🌱 Estudando React
+📫 Contate-me no email: Gutisilva123@hotmail.com
+😄 pronomes: ele/dele
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-517b51212/)
 <div>
