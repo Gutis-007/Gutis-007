@@ -1,5 +1,5 @@
 ### Hello World! Eu sou Gustavo Ferreira 🖐
-- 🌱 Estudando React 
+- 🌱 Estudando Django 
 - 📫 Contate-me no email: Gutisilva123@hotmail.com
 - 😄 pronomes: ele/dele
 
